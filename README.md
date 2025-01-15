@@ -12,3 +12,48 @@ Divirta-se explorando e codificando!
 
 Atenciosamente,
 [Will]
+# Hi there, I'm Woraes! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+
+## 🚀 Projects
+
+Here are a few projects I've worked on recently:
+
+- [**Project Name**](https://github.com/Woraes/project-name): Brief description of the project.
+- [**Another Project**](https://github.com/Woraes/another-project): Brief description of the project.
+- [**Yet Another Project**](https://github.com/Woraes/yet-another-project): Brief description of the project.
+
+## 📈 GitHub Stats
+
+![Woraes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woraes&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+
+I'm currently learning more about:
+
+- Advanced Python techniques
+- Cloud computing with AWS
+- Machine learning and AI
+
+## 📫 How to reach me
+
+Feel free to reach out to me via:
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Woraes](https://www.linkedin.com/in/woraes)
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Let's connect and make something amazing together!
