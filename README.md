@@ -1,59 +1,91 @@
-Bem-vindo ao meu perfil no GitHub!
+<h1 align="center">Bem-vindo(a) ao meu universo Dev 🌌</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Desenvolvedor+Fullstack+apaixonado+por+Python+%26+Django;Construindo+ideias+em+c%C3%B3digo+desde+sempre...;Explorando+o+futuro+com+tecnologia+e+criatividade" alt="Typing SVG" />
+</p>
 
-Aqui você encontrará um espaço dedicado às minhas habilidades em Python e Django. Estou entusiasmado em compartilhar meus projetos, códigos e contribuições com a comunidade de desenvolvedores. Minha jornada no mundo do desenvolvimento web e programação tem sido moldada por desafios emocionantes e aprendizado contínuo, e estou ansioso para compartilhar essas experiências com você.
+---
 
-Se você é apaixonado por Python e Django assim como eu, está no lugar certo. Navegue pelos meus repositórios para explorar projetos que demonstram o meu conhecimento e criatividade. Desde aplicações web dinâmicas até soluções eficientes para problemas específicos, meu objetivo é demonstrar a versatilidade dessas tecnologias e como elas podem ser aplicadas de maneira prática.
+## 🚀 Sobre mim
 
-Sinta-se à vontade para examinar o código, abrir issues, fornecer feedback ou até mesmo colaborar em projetos futuros. O desenvolvimento é uma jornada colaborativa, e estou aberto a sugestões e contribuições que possam elevar ainda mais a qualidade dos meus projetos.
+🧠 Desenvolvedor fullstack com foco em **Python + Django**, apaixonado por criar soluções reais, web apps eficientes e automações criativas.
 
-Agradeço por visitar o meu perfil e por compartilhar essa paixão pela programação comigo. Juntos, podemos criar e aprender muito. Vamos codificar em Python, explorar o Django e construir um futuro cheio de inovação e criatividade.
+🎨 Curioso por design, arquitetura de software e inteligência artificial.
 
-Divirta-se explorando e codificando!
+🌱 Aprendizado constante: estou sempre estudando novas tecnologias e aprofundando minhas habilidades técnicas.
 
-Atenciosamente,
-[Will]
-# Hi there, I'm Woraes! 👋
+💬 Fã de código limpo, testes automatizados, e boas práticas.
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
+---
 
-## 🔧 Technologies & Tools
+## 🚀 Stack que utilizo
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+<div align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django" />
 
-## 🚀 Projects
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-JSX-05122A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Vite-05122A?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css" />
 
-Here are a few projects I've worked on recently:
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" />
 
-- [**Project Name**](https://github.com/Woraes/project-name): Brief description of the project.
-- [**Another Project**](https://github.com/Woraes/another-project): Brief description of the project.
-- [**Yet Another Project**](https://github.com/Woraes/yet-another-project): Brief description of the project.
+  <!-- Outros -->
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" />
+</div>
 
-## 📈 GitHub Stats
 
-![Woraes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woraes&show_icons=true&theme=radical)
+---
 
-## 🌱 Currently Learning
+## 📊 GitHub Insights
 
-I'm currently learning more about:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Woraes&show_icons=true&theme=tokyonight&hide=prs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woraes&layout=compact&theme=tokyonight" height="165" />
+</div>
 
-- Advanced Python techniques
-- Cloud computing with AWS
-- Machine learning and AI
+---
 
-## 📫 How to reach me
+## 📌 Alguns dos meus projetos favoritos
 
-Feel free to reach out to me via:
+🔹 [**Sistema de gerenciamento com Django**](https://github.com/Woraes/SEU-REPO-AQUI)  
+🔹 [**API RESTful com Django Rest Framework**](https://github.com/Woraes/SEU-REPO-AQUI)  
+🔹 [**Automação com Python e Selenium**](https://github.com/Woraes/SEU-REPO-AQUI)  
+🔹 [**Dashboard interativo com Plotly**](https://github.com/Woraes/SEU-REPO-AQUI)  
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Woraes](https://www.linkedin.com/in/woraes)
+(Explore meus repositórios para mais!)
 
-## 💬 Let's Connect!
+---
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Let's connect and make something amazing together!
+## 🌍 O que estou estudando agora
+
+🧠 Aprofundando:
+
+- 🐍 Python avançado e arquiteturas escaláveis com Django
+- ☁️ Cloud Computing com AWS e Docker
+- 🤖 Machine Learning com Scikit-Learn e TensorFlow
+
+---
+
+## 🤝 Vamos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woraes)  
+📬 Me mande uma mensagem, bora trocar ideias ou construir algo juntos!
+
+---
+
+## ✨ Filosofia Dev
+
+> “Código é poesia. Software é arte funcional. Criar soluções é imaginar o futuro e transformá-lo em realidade.”  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Woraes&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" />
+</p>
