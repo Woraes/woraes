@@ -109,6 +109,18 @@
       <rect class="symbol" x="-4.2" y="-4.2" width="8.4" height="8.4" rx="1"/>
     </g>
 
+    <g id="sym-plus">
+      <rect x="-5.2" y="-5.2" width="10.4" height="10.4" rx="2.2" class="symbol-stroke"/>
+      <rect x="-0.8" y="-3.8" width="1.6" height="7.6" class="symbol"/>
+      <rect x="-3.8" y="-0.8" width="7.6" height="1.6" class="symbol"/>
+    </g>
+
+    <g id="sym-equals">
+      <rect x="-5.2" y="-5.2" width="10.4" height="10.4" rx="2.2" class="symbol-stroke"/>
+      <rect x="-3.8" y="-2.2" width="7.6" height="1.6" class="symbol"/>
+      <rect x="-3.8" y="1.0" width="7.6" height="1.6" class="symbol"/>
+    </g>
+
     <g id="sym-label-aberta">
       <rect class="symbol" x="-8.6" y="-3.6" width="17.2" height="7.2" rx="1.6"/>
       <text x="0" y="1.6" text-anchor="middle" class="subtitle" fill="#fff">ABERTA</text>
@@ -151,7 +163,7 @@
     <g transform="translate(0, 138)"><use href="#sym-fish"/><text class="item-text" x="16" y="2.2">BACALHAU</text></g>
     <g transform="translate(0, 161)"><use href="#sym-triangle"/><text class="item-text" x="16" y="2.2">CAMARÃO C/ CATUPIRY</text></g>
     <g transform="translate(0, 184)"><use href="#sym-square"/><text class="item-text" x="16" y="2.2">CAMARÃO</text></g>
-    <g transform="translate(0, 207)"><use href="#sym-label-aberta" transform="scale(0.9)"/><text class="item-text" x="22" y="2.2">QUEIJO</text></g>
-    <g transform="translate(0, 230)"><use href="#sym-bar-long"/><text class="item-text" x="16" y="2.2">FRANGO C/ CATUPIRY</text></g>
+    <g transform="translate(0, 207)"><use href="#sym-plus"/><text class="item-text" x="16" y="2.2">QUEIJO</text></g>
+    <g transform="translate(0, 230)"><use href="#sym-equals"/><text class="item-text" x="16" y="2.2">FRANGO C/ CATUPIRY</text></g>
   </g>
 </svg>
