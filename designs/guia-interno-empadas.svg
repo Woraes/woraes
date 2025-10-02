@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <defs>
+    <style><![CDATA[
+      .title { font: 700 7px/1.2 Arial, Helvetica, sans-serif; letter-spacing: .5px; fill: #111; }
+      .subtitle { font: 600 4.2px/1.2 Arial, Helvetica, sans-serif; fill: #111; }
+      .item-text { font: 500 4.6px/1.2 Arial, Helvetica, sans-serif; fill: #111; }
+      .muted { fill: #333; }
+      .border { stroke: #111; stroke-width: .6; fill: none; }
+      .symbol { fill: #111; stroke: none; }
+      .symbol-stroke { fill: none; stroke: #111; stroke-width: .6; }
+    ]]></style>
+
+    <!-- Basic reusable shapes in 12x12 box, centered at (0,0) -->
+    <g id="sym-circle" transform="scale(1)">
+      <circle class="symbol" cx="0" cy="0" r="4.2" />
+    </g>
+
+    <g id="sym-bow" transform="scale(1)">
+      <ellipse class="symbol-stroke" cx="-3.2" cy="0" rx="3.6" ry="2.6" />
+      <ellipse class="symbol-stroke" cx="3.2" cy="0" rx="3.6" ry="2.6" />
+      <circle class="symbol" cx="0" cy="0" r="1.2" />
+    </g>
+
+    <g id="sym-crescent" transform="scale(1)">
+      <path class="symbol" d="M2.8 0A5 5 0 1 1 2.8-0.01c-2.2 1.3-2.2 1.3-2.2 0S0.6-1.3 2.8 0Z" />
+    </g>
+
+    <g id="sym-star" transform="scale(1.1)">
+      <path class="symbol" d="M0-4.6 1.2-1.2 4.6-1.2 1.8 0.6 3 4 -0 2.1 -3 4 -1.8 0.6 -4.6-1.2 -1.2-1.2Z" />
+    </g>
+
+    <g id="sym-heart" transform="scale(1)">
+      <path class="symbol" d="M-2.8-1.4c0-1.5 1.2-2.6 2.6-2.6 0.9 0 1.7 0.5 2.2 1.2 0.5-0.7 1.3-1.2 2.2-1.2 1.5 0 2.6 1.2 2.6 2.6 0 2.8-3.1 4.6-4.8 6.1-1.7-1.5-4.8-3.3-4.8-6.1Z" />
+    </g>
+
+    <g id="sym-square-M">
+      <rect class="symbol" x="-4.6" y="-4.6" width="9.2" height="9.2" rx="1" />
+      <text x="0" y="2.1" text-anchor="middle" class="subtitle" fill="#fff">M</text>
+    </g>
+
+    <g id="sym-square-C">
+      <rect class="symbol" x="-4.6" y="-4.6" width="9.2" height="9.2" rx="1" />
+      <text x="0" y="2.1" text-anchor="middle" class="subtitle" fill="#fff">C</text>
+    </g>
+
+    <g id="sym-oregano" transform="scale(1)">
+      <rect x="-7.6" y="-3.6" width="15.2" height="7.2" rx="2.6" class="symbol"/>
+      <text x="0" y="1.6" text-anchor="middle" class="subtitle" fill="#fff">ORÉGANO</text>
+    </g>
+
+    <g id="sym-massa-escura" transform="scale(1)">
+      <rect x="-8.6" y="-3.6" width="17.2" height="7.2" rx="1.6" class="symbol"/>
+      <text x="0" y="1.6" text-anchor="middle" class="subtitle" fill="#fff">MASSA ESCURA</text>
+    </g>
+
+    <g id="sym-palmito">
+      <circle class="symbol" cx="0" cy="-3.6" r="2.2"/>
+      <circle class="symbol" cx="0" cy="0" r="2.8"/>
+      <rect class="symbol" x="-2.8" y="2.2" width="5.6" height="3.6" rx="1.6"/>
+    </g>
+
+    <g id="sym-teardrop">
+      <path class="symbol" d="M0-5.6C0.6-3.2 3 0 3 2.6 3 4.5 1.7 6 0 6 -1.7 6 -3 4.5 -3 2.6 -3 0 0.6-3.2 0-5.6Z"/>
+    </g>
+
+    <g id="sym-cupcake">
+      <path class="symbol-stroke" d="M-6 0a6 4.6 0 0 1 12 0v0.6H-6Z" />
+      <rect class="symbol-stroke" x="-6" y="0.6" width="12" height="5.8" rx="1"/>
+      <circle class="symbol" cx="0" cy="-2.6" r="0.8"/>
+    </g>
+
+    <g id="sym-cloud">
+      <circle class="symbol-stroke" cx="-3.6" cy="0" r="2.2"/>
+      <circle class="symbol-stroke" cx="-0.6" cy="-0.8" r="2.8"/>
+      <circle class="symbol-stroke" cx="2.8" cy="0.2" r="2.2"/>
+    </g>
+
+    <g id="sym-diamond">
+      <polygon class="symbol" points="0,-5 6,0 0,5 -6,0"/>
+    </g>
+
+    <g id="sym-bar-short">
+      <rect class="symbol" x="-6" y="-1.4" width="12" height="2.8" rx="1.2"/>
+    </g>
+
+    <g id="sym-guitar">
+      <rect class="symbol" x="2.2" y="-6" width="1.4" height="8" rx="0.6"/>
+      <circle class="symbol" cx="0" cy="1.2" r="3.4"/>
+      <circle class="symbol" cx="0" cy="0.8" r="1.2" fill="#fff"/>
+    </g>
+
+    <g id="sym-two-dots">
+      <circle class="symbol" cx="-2.6" cy="0" r="1.6"/>
+      <circle class="symbol" cx="2.6" cy="0" r="1.6"/>
+    </g>
+
+    <g id="sym-fish">
+      <path class="symbol-stroke" d="M-5 0c2.2-2.2 6.6-2.2 8.8 0 -2.2 2.2-6.6 2.2-8.8 0Z" fill="none"/>
+      <polygon class="symbol" points="3.8,0 6.4,-2.2 6.4,2.2"/>
+      <circle class="symbol" cx="-1.4" cy="-0.6" r="0.6"/>
+    </g>
+
+    <g id="sym-triangle">
+      <polygon class="symbol" points="0,-5.6 5.2,2.8 -5.2,2.8"/>
+    </g>
+
+    <g id="sym-square">
+      <rect class="symbol" x="-4.2" y="-4.2" width="8.4" height="8.4" rx="1"/>
+    </g>
+
+    <g id="sym-label-aberta">
+      <rect class="symbol" x="-8.6" y="-3.6" width="17.2" height="7.2" rx="1.6"/>
+      <text x="0" y="1.6" text-anchor="middle" class="subtitle" fill="#fff">ABERTA</text>
+    </g>
+
+    <g id="sym-bar-long">
+      <rect class="symbol" x="-10" y="-2.2" width="20" height="4.4" rx="1.6"/>
+    </g>
+  </defs>
+
+  <rect x="0" y="0" width="210" height="297" fill="#fff"/>
+  <rect x="7" y="7" width="196" height="283" class="border" rx="2"/>
+
+  <text class="title" x="105" y="18" text-anchor="middle">GUIA INTERNO — SÍMBOLOS DAS EMPADAS</text>
+  <text class="subtitle" x="105" y="24" text-anchor="middle">Preto e branco • Moderno • Limpo</text>
+
+  <!-- Left column items -->
+  <g transform="translate(20, 36)">
+    <g transform="translate(0, 0)"><use href="#sym-circle"/><text class="item-text" x="16" y="2.2">CALABRESA</text></g>
+    <g transform="translate(0, 23)"><use href="#sym-bow"/><text class="item-text" x="16" y="2.2">FRANGO C/ PALMITO</text></g>
+    <g transform="translate(0, 46)"><use href="#sym-crescent"/><text class="item-text" x="16" y="2.2">FRANGO C/ AZEITONA</text></g>
+    <g transform="translate(0, 69)"><use href="#sym-star"/><text class="item-text" x="16" y="2.2">FRANGO PURO</text></g>
+    <g transform="translate(0, 92)"><use href="#sym-heart"/><text class="item-text" x="16" y="2.2">QUEIJO C/ ALHO</text></g>
+    <g transform="translate(0, 115)"><use href="#sym-square-M"/><text class="item-text" x="16" y="2.2">FRANGO AMEIXA E BACON</text></g>
+    <g transform="translate(0, 138)"><use href="#sym-square-C"/><text class="item-text" x="16" y="2.2">QUEIJO COM CEBOLA</text></g>
+    <g transform="translate(0, 161)"><use href="#sym-oregano" transform="scale(0.8)"/><text class="item-text" x="20" y="2.2">PIZZA</text></g>
+    <g transform="translate(0, 184)"><use href="#sym-massa-escura" transform="scale(0.8)"/><text class="item-text" x="22" y="2.2">CHOCOLATE</text></g>
+    <g transform="translate(0, 207)"><use href="#sym-palmito"/><text class="item-text" x="16" y="2.2">PALMITO</text></g>
+    <g transform="translate(0, 230)"><use href="#sym-teardrop"/><text class="item-text" x="16" y="2.2">FRANGO C/ BACON</text></g>
+  </g>
+
+  <!-- Right column items -->
+  <g transform="translate(112, 36)">
+    <g transform="translate(0, 0)"><use href="#sym-cupcake"/><text class="item-text" x="16" y="2.2">QUATRO QUEIJOS</text></g>
+    <g transform="translate(0, 23)"><use href="#sym-cloud"/><text class="item-text" x="16" y="2.2">FRANGO C/ CHEDDAR</text></g>
+    <g transform="translate(0, 46)"><use href="#sym-diamond"/><text class="item-text" x="16" y="2.2">CARNE SECA C/ CATUPIRY</text></g>
+    <g transform="translate(0, 69)"><use href="#sym-bar-short"/><text class="item-text" x="16" y="2.2">CARNE SECA</text></g>
+    <g transform="translate(0, 92)"><use href="#sym-guitar"/><text class="item-text" x="16" y="2.2">BANANA</text></g>
+    <g transform="translate(0, 115)"><use href="#sym-two-dots"/><text class="item-text" x="16" y="2.2">ROMEU E JULIETA</text></g>
+    <g transform="translate(0, 138)"><use href="#sym-fish"/><text class="item-text" x="16" y="2.2">BACALHAU</text></g>
+    <g transform="translate(0, 161)"><use href="#sym-triangle"/><text class="item-text" x="16" y="2.2">CAMARÃO C/ CATUPIRY</text></g>
+    <g transform="translate(0, 184)"><use href="#sym-square"/><text class="item-text" x="16" y="2.2">CAMARÃO</text></g>
+    <g transform="translate(0, 207)"><use href="#sym-label-aberta" transform="scale(0.9)"/><text class="item-text" x="22" y="2.2">QUEIJO</text></g>
+    <g transform="translate(0, 230)"><use href="#sym-bar-long"/><text class="item-text" x="16" y="2.2">FRANGO C/ CATUPIRY</text></g>
+  </g>
+</svg>
