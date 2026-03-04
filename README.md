@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo(a) ao meu universo Dev 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Desenvolvedor+Fullstack+apaixonado+por+Python+%26+Django;Construindo+ideias+em+c%C3%B3digo+desde+sempre...;Explorando+o+futuro+com+tecnologia+e+criatividade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Desenvolvedor+Fullstack;Construindo+ideias;Explorando+o+futuro" alt="Typing SVG" />
 </p>
 
 ---
