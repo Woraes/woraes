@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <defs>
+    <linearGradient id="grad-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFAFBD"/>
+      <stop offset="100%" stop-color="#ffc3a0"/>
+    </linearGradient>
+    <linearGradient id="grad-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff512f"/>
+      <stop offset="100%" stop-color="#dd2476"/>
+    </linearGradient>
+    <style><![CDATA[
+      .logo-title { font: 900 16px/1.1 'Poppins', Arial, sans-serif; letter-spacing: .5px; fill: #fff; }
+      .logo-sub { font: 600 5px/1 'Poppins', Arial, sans-serif; fill: #fff; opacity: .9; }
+      .section-title { font: 800 7px/1.2 'Poppins', Arial, sans-serif; fill: #3a2a2a; letter-spacing: .2px; }
+      .item { font: 600 4.8px/1.7 'Inter', Arial, sans-serif; fill: #3a2a2a; }
+      .chip { font: 700 4.2px/1 'Inter', Arial, sans-serif; fill: #fff; }
+      .price { font: 800 5px/1 'Poppins', Arial, sans-serif; fill: #dd2476; }
+      .small { font: 500 3.6px/1.2 'Inter', Arial, sans-serif; fill: #6b5a5a; }
+      .card { filter: drop-shadow(0 1px 2px rgba(0,0,0,.12)) drop-shadow(0 6px 16px rgba(0,0,0,.12)); }
+    ]]></style>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="210" height="297" fill="url(#grad-bg)"/>
+
+  <!-- top ribbon with logo -->
+  <g class="card">
+    <rect x="0" y="0" width="210" height="44" fill="url(#grad-accent)"/>
+    <g transform="translate(18,10)">
+      <circle cx="0" cy="12" r="10" fill="#fff" opacity=".2"/>
+      <path d="M-2 20c0-4 4-7 9-7 5 0 9 3 9 7v1H-2Z" fill="#fff" opacity=".3"/>
+      <text x="28" y="13" class="logo-title">Empadas Saborosa</text>
+      <text x="28" y="22" class="logo-sub">recheio generoso, massa leve e crocante</text>
+    </g>
+  </g>
+
+  <!-- info badges -->
+  <g transform="translate(18,56)">
+    <rect x="0" y="0" width="65" height="10" rx="5" fill="#ff7a59"/>
+    <text x="32.5" y="7" text-anchor="middle" class="chip">FEITO NA HORA</text>
+    <rect x="73" y="0" width="100" height="10" rx="5" fill="#7fdb74"/>
+    <text x="123" y="7" text-anchor="middle" class="chip">INGREDIENTES SELECIONADOS</text>
+  </g>
+
+  <!-- menu cards -->
+  <g transform="translate(18,76)">
+    <!-- Savory card -->
+    <g class="card">
+      <rect x="0" y="0" width="186" height="98" rx="6" fill="#fff"/>
+      <text x="12" y="12" class="section-title">Salgadas</text>
+      <g transform="translate(12,20)" class="item">
+        <text x="0"  y="6">Calabresa</text>
+        <text x="64" y="6">Frango c/ Palmito</text>
+        <text x="122" y="6">Frango c/ Azeitona</text>
+
+        <text x="0"  y="18">Frango Puro</text>
+        <text x="64" y="18">Queijo c/ Alho</text>
+        <text x="122" y="18">Frango Ameixa e Bacon</text>
+
+        <text x="0"  y="30">Queijo c/ Cebola</text>
+        <text x="64" y="30">Pizza (orégano)</text>
+        <text x="122" y="30">Carne Seca</text>
+
+        <text x="0"  y="42">Carne Seca c/ Catupiry</text>
+        <text x="64" y="42">Camarão</text>
+        <text x="122" y="42">Camarão c/ Catupiry</text>
+
+        <text x="0"  y="54">Bacalhau</text>
+        <text x="64" y="54">Queijo</text>
+        <text x="122" y="54">Frango c/ Catupiry</text>
+
+        <text x="0"  y="66">Palmito</text>
+        <text x="64" y="66">Frango c/ Bacon</text>
+        <text x="122" y="66">Quatro Queijos</text>
+      </g>
+      <text x="174" y="88" text-anchor="end" class="price">a partir de R$ 9,90</text>
+    </g>
+
+    <!-- Sweet card -->
+    <g class="card" transform="translate(0,110)">
+      <rect x="0" y="0" width="186" height="78" rx="6" fill="#fff"/>
+      <text x="12" y="12" class="section-title">Doces</text>
+      <g transform="translate(12,20)" class="item">
+        <text x="0"  y="6">Romeu e Julieta</text>
+        <text x="90" y="6">Banana</text>
+        <text x="140" y="6">Chocolate (massa escura)</text>
+      </g>
+      <text x="12" y="64" class="small">Peça também a versão aberta (queijo).</text>
+    </g>
+  </g>
+
+  <!-- footer -->
+  <g transform="translate(18,270)">
+    <text class="small" x="0" y="0">Encomendas e delivery</text>
+    <rect x="56" y="-6" width="60" height="10" rx="5" fill="#3b82f6"/>
+    <text x="86" y="1" text-anchor="middle" class="chip">(11) 99999-0000</text>
+    <text class="small" x="122" y="0">Siga: @empadas.saborosa</text>
+  </g>
+</svg>
